@@ -1,6 +1,6 @@
-Stack for 2023
+# Stack for 2023
 
-Language: Java, TypeScript
+Languages: Java, TypeScript, C++(for interviews)
 Optional: Golang, Kotlin
 
 ### Backend
